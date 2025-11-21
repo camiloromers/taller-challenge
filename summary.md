@@ -1,7 +1,5 @@
 # Summary
 
-Here’s a more natural, human-sounding version that reads like something a data scientist would casually write in a presentation or internal report:
-
 Our return-prediction model is all about cutting down the money we lose on returns. The idea is simple: flag the risky orders early so we can step in (offer a prepaid label, contact the customer, etc.) before the package comes back.  
 
 Financially, each prediction has a clear dollar value:  
